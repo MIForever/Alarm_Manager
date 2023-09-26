@@ -1,5 +1,7 @@
-Alarm Manager is a Python script that allows you to set alarms and get notified when they go off.
-###It uses the `winotify` library to display notifications and the `pygame` library to play audio.
+#Welcome to Alarm Manager.
+
+Alarm Manager is a Python script that allows you to set alarms and get notified when they go off.<br>
+It uses the `winotify` library to display notifications and the `pygame` library to play audio.
 
 ##To use Alarm Manager, first install the required libraries:
 
